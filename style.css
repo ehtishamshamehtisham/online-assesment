@@ -1,0 +1,1138 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color:rgb(237, 2, 80);
+    height: 1200px;
+    
+}
+.logo-name{
+    color:white;
+    font-size: 3rem;
+    margin-left: 100px;
+    margin-right: 65px;
+    padding-top: 45px;
+}
+.heading-1{
+    margin-left: 100px;
+    margin-right: 65px;
+    padding-top: 70px;
+    color: white;
+    width: 500px;
+    height: 400px;
+    font-size: 4.5rem;
+}
+
+.heading-2{
+    margin-top: 20px;
+    display: flex;
+    font-size: 1.90rem;
+    
+}
+.heading-2 p {
+    margin-left: 12px;
+}
+.heading-2 i {
+    font-size: 29px;
+}
+.inner-1{
+    margin-top: 20px;
+    display: flex;
+    font-size: 1.90rem;
+    
+}
+.inner-1 p {
+    margin-left: 12px;
+}
+.inner-1 i {
+    font-size: 29px;
+}
+.inner-2{
+    margin-top: 20px;
+    display: flex;
+    font-size: 1.90rem;
+    
+}
+.inner-2 p {
+    margin-left: 12px;
+}
+.inner-2 i {
+    font-size: 29px;
+}
+/*..............**/
+.demobox-heading{
+    display: flex;
+   
+}
+.demo-box{
+    background-color: white;
+    margin-left: 960px;
+    height: 570px;
+    width: 430px;
+    border-radius: 12px;
+    position: fixed;
+}
+.demo-box h2 {
+    font-size: 2.3rem;
+    padding: 12px 100px;
+    color:rgb(237, 2, 80)
+}
+.demo-box p{
+    
+    color:rgb(105, 103, 103);
+    padding:0 35px;
+}
+.form p{
+color:rgb(105, 103, 103);
+padding-left: 18px ;
+padding-top: 12px;
+font-size: 0.9rem;
+}
+.form input{
+    margin-top:3px;
+    color:rgb(105, 103, 103);
+    margin-left: 18px;
+    height: 30px;
+    width:380px;
+   
+}
+.form button{
+    margin-top: 30px;
+    height: 50px;
+    border-radius:5px;
+    color:white;
+    width:200px;
+    background-color: rgb(237, 2, 80);
+    margin-left: 115px;
+    font-size: 1.25rem;
+}
+.sign-in p{
+    padding-left: 47px;
+}
+.box-2{
+    margin-top: 560px;
+    height: 75px;
+    width: 500px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+/**.........*/
+.section-2 {
+    height: 400px;
+}
+.section-2 P{
+    padding-top: 50px;
+    padding-left: 70px;
+    font-size: 2.3rem;
+    color: rgb(105, 103, 103);;
+}
+/*-----*/
+.section-3{
+    background-color:rgb(255, 230, 235);
+    height: 2500px;
+}
+.section-3 h1{
+    width: 1100px;
+    font-size: 4.8rem;
+    padding-left: 90px;
+    padding-top: 100px;
+}
+.section-3 h2{
+    width: 800px;
+    font-size: 4.8rem;
+    padding-left: 300px;
+}
+/*----*/
+.inner-text-1 h1{
+    background-color: white;
+    width: 70px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 40px;
+   padding-top: 8px;
+   border-radius: 50px;
+    font-size: 2.35rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-1 h2{
+    font-size: 2.5rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-1{
+    display: flex;
+    width: 700px;
+
+}
+.inner-text-1 p{
+    
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+/**....*/
+
+.inner-text-2 h1{
+    background-color: white;
+    width: 70px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 30px;
+   padding-top: 7px;
+   border-radius: 50px;
+    font-size: 2.5rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-2 h2{
+    font-size: 2.3rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-2{
+    display: flex;
+   
+    width: 690px;
+}
+.inner-text-2 p{
+    
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+/**.....*/
+.inner-text-3 h1{
+    background-color: white;
+    width: 60px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 50px;
+   padding-top: 7px;
+   border-radius: 50px;
+    font-size: 2.6rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-3 h2{
+    font-size: 2.5rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-3{
+    display: flex;
+}
+.inner-text-3 p{
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+/*......*/
+.inner-text-4 h1{
+    background-color: white;
+    width: 60px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 50px;
+   padding-top: 7px;
+   border-radius: 50px;
+    font-size: 2.6rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-4 h2{
+    font-size: 2.5rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-4{
+    display: flex;
+}
+.inner-text-4 p{
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+/*.....*/
+
+
+.inner-text-5 h1{
+    background-color: white;
+    width: 60px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 50px;
+   padding-top: 7px;
+   border-radius: 50px;
+    font-size: 2.6rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-5 h2{
+   width: 500px;
+    font-size: 2.3rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-5{
+    display: flex;
+}
+.inner-text-5 p{
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+/*..*/
+.inner-text-6 h1{
+    background-color: white;
+    width: 60px;
+    height:60px;
+    padding-left: 20px;
+    margin-top: 70px;
+   margin-left: 50px;
+   padding-top: 7px;
+   border-radius: 50px;
+    font-size: 2.6rem;
+    color: rgb(237, 2, 80);
+    
+}
+.inner-text-6 h2{
+    font-size: 2.5rem;
+    padding-left: 13px;
+    padding-top: 80px;
+    color: rgb(237, 2, 80);
+   
+   
+}
+.inner-text-part-6{
+    display: flex;
+}
+.inner-text-6 p{
+    font-size: 2rem;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 550px;
+}
+
+/*.....*/
+.section-4{
+    height: 1800px;
+}
+.section-4 h1{
+    width: 1000px;
+    font-size: 4.5rem;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+/*....*/
+.box-1{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-1 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-1 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+
+.box-2{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-2 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-2 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+
+
+.box-3{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-3 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-3 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+
+
+.box-4{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-4 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-4 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+.box-5{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-5 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-5 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+
+
+.box-6{
+    background-color: rgb(237, 2, 80);
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left:40px;
+    height: 440px;
+    width:400px;
+    border-radius: 12px;
+}
+.box-6 h1{
+    padding-top: 230px;
+    font-size: 2rem;
+    margin-left: 0px;
+    padding-left: 85px;
+    color: white;
+
+    
+}
+.box-6 p{
+    word-spacing: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 2.3rem;
+    color: white;
+    padding-left: 8px;
+   
+}
+.box-1-and-2{
+    display: flex;
+}
+.box-3-and-4{
+    display: flex;
+}
+.box-5-and-6{
+    display: flex;
+}
+/**....*/
+
+.section-5 {
+    background-color: rgb(255, 230, 235);
+    height: 300px;
+    
+}
+.section-5 h1{
+    color: black;
+    height: 50px;
+    width: 750px;
+    font-size: 3.3rem;
+    padding-top: 100px;
+    padding-left: 280px;
+}
+.section-5 h2{
+    word-spacing: 10px;
+    color: black;
+    height: 50px;
+    width: 750px;
+    font-size: 3.5rem;
+    padding-top: 60px;
+    padding-left: 210px;
+}
+
+.section-6{
+    font-size: 1.9rem;
+    height: 350px;
+    padding-top: 100px;
+    padding-left: 100px;
+    color: rgb(105, 103, 103);
+}
+.section-6-box-1{
+    padding-left: 100px;
+    color: rgb(105, 103, 103);
+    margin-top: 30px;
+    height: 100px;
+    width: 800px;
+    background-color: red;
+}
+.section-7{
+    height: 600px;
+    background-color: rgb(237, 2, 80);
+}
+.section-7 h1{
+    
+    width: 550px;
+    color: white;
+    padding-top: 130px;
+    padding-left: 100px;
+    font-size: 3.5rem;
+}
+.section-8{
+    font-size: 2rem;
+    padding-top: 100px;
+    padding-left: 100px;
+    height: 200px;
+}
+.image-1{
+    height: 200px;
+    width: 300px;
+    margin-top: 130px;
+   
+    background-size: cover;
+    
+}
+.image-part1{
+    
+    background-image: url(image-1.png);
+     background-size: cover;
+     height: 200px;
+     width: 250px;
+     
+}
+.text-image{
+display: flex;
+
+
+}
+.image-2{
+
+    height: 200px;
+    width: 250px;
+    margin-top: 70px;
+   
+    background-size: cover;
+    
+}
+.image-part2{
+    margin: 0;
+    padding: 0;
+    
+    background-image: url(image-2.png);
+     background-size: cover;
+     height: 250px;
+     width: 270px;
+     
+     
+}
+.text-image-2{
+display: flex;
+}
+@media (max-width:600px){
+    .header{
+        height: 1200px;
+        width: 100%;
+    }
+    .logo-name{
+        width: 100%;
+        font-size: 5rem;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-top: 10px;
+        
+    }
+    .heading-1{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 24px;
+        width: 100%;
+        height: 300px;
+        font-size: 4rem;
+    }
+    
+    .heading-2{
+        width: 100%;
+        margin-top: 40px;
+        display: flex;
+        font-size: 2.5rem;
+        
+    }
+    
+    .heading-2 i {
+        font-size: 40px;
+    }
+    .inner-1{
+        width: 100%;
+        display: flex;
+        font-size: 2.5rem;
+        
+    }
+    .inner-1 i {
+        font-size: 40px;
+    }
+    .inner-2{
+        width: 100%;
+        display: flex;
+        font-size: 2.50rem;
+        
+    }
+    
+    .inner-2 i {
+        font-size: 40px;
+    }
+    .section-2 {
+        height: 450px;
+        width: 100%;
+    }
+    .section-2 P{
+        width: 100%;
+        padding-left: 90px;
+        font-size: 2.5rem;
+    }
+    /*-----*/
+    .demobox-heading{   
+      
+       display: inline;
+    }
+    .demo-box{
+        margin-left: 85px ;
+        border: 3px solid pink;
+        margin-top: 1200px;
+        height: 570px;
+        width: 430px;
+        border-radius: 12px;
+        position: static;
+    }
+    .demo-box h2 {
+        font-size: 2.3rem;
+        padding: 12px 100px;
+        color:rgb(237, 2, 80)
+    }
+    .demo-box p{
+        
+        color:rgb(105, 103, 103);
+        padding:0 35px;
+    }
+    .form p{
+    color:rgb(105, 103, 103);
+    padding-left: 18px ;
+    padding-top: 12px;
+    font-size: 0.9rem;
+    }
+    .form input{
+        margin-top:3px;
+        color:rgb(105, 103, 103);
+        margin-left: 18px;
+        height: 30px;
+        width:380px;
+       
+    }
+    .form button{
+        margin-top: 30px;
+        height: 50px;
+        border-radius:5px;
+        color:white;
+        width:200px;
+        background-color: rgb(237, 2, 80);
+        margin-left: 115px;
+        font-size: 1.25rem;
+    }
+    .sign-in p{
+        padding-left: 47px;
+    }
+    .box-2{
+        margin-top: 560px;
+        height: 75px;
+        width: 500px;
+        background-color: white;
+        margin-left: 100px;
+        border-radius: 5px;
+    }
+    /**.........*/
+    .section-3{
+        margin-top: 600px ;
+        background-color:rgb(255, 230, 235);
+        height: 2800px;
+        width: 100%;
+    }
+    .section-3 h1{
+        width: 100%;
+        font-size: 3.5rem;
+        padding-left: 30px;
+        padding-top: 100px;
+    }
+    .section-3 h2{
+        width:100%;
+        font-size: 3.5rem;
+        padding-left: 150px;
+    }
+    .image-1{
+        height: 350px;
+        width: 300px;
+        margin-top: 0px; 
+        
+    }
+    .image-part1{
+        margin-left: 130px;
+         height: 350px;
+         width: 400px;
+    }
+    .text-image{
+    display: inline;
+    }
+    .inner-text-1 h1{
+        background-color: white;
+        width: 70px;
+        height:60px;
+        padding-left: 20px;
+        margin-top: 70px;
+       margin-left: 40px;
+       padding-top: 8px;
+       border-radius: 50px;
+        font-size: 2.35rem;
+    }
+    .inner-text-1 h2{
+        font-size: 2.5rem;
+        padding-left: 13px;
+        padding-top: 80px;
+    }
+    .image-2{
+        height: 350px;
+        width: 300px;
+        margin-top: 0px;    
+    }
+    .image-part2{
+        padding: 0px;
+        margin-left: 120px;
+         height: 350px;
+         width: 400px;
+    }
+    .text-image-2{
+    display: inline;
+    }
+    .inner-text-2 h1{
+        background-color: white;
+        width: 70px;
+        height:60px;
+        padding-left: 20px;
+        margin-top: 70px;
+       margin-left: 30px;
+       padding-top: 7px;
+       border-radius: 50px;
+        font-size: 2.5rem;
+        color: rgb(237, 2, 80);
+        
+    }
+    .inner-text-2 h2{
+        font-size: 2.3rem;
+        padding-left: 13px;
+        padding-top: 80px;
+        color: rgb(237, 2, 80);
+    }
+    .inner-text-3 h1{
+        background-color: white;
+        width: 60px;
+        height:60px;
+        padding-top: 7px;
+        padding-left: 20px;
+       margin-left: 50px;
+       border-radius: 50px;
+        font-size: 2.6rem;
+        color: rgb(237, 2, 80);
+        
+    }
+    .inner-text-3 h2{
+        font-size: 2.5rem;
+        padding-left: 10px;
+        margin-top: 80px;
+        margin-left: 0px;
+        padding-top: 0px;
+        color: rgb(237, 2, 80);
+    }
+    .inner-text-part-3{
+        display:flex;
+    }
+    .inner-text-4 h1{
+        background-color: white;
+        width: 60px;
+        height:60px;
+        padding-left: 20px;
+        margin-top: 70px;
+       margin-left: 50px;
+       padding-top: 7px;
+       border-radius: 50px;
+        font-size: 2.6rem;
+        color: rgb(237, 2, 80);
+        
+    }
+    .inner-text-4 h2{
+        font-size: 2.5rem;
+        padding-left: 13px;
+        padding-top: 80px;
+        color: rgb(237, 2, 80);
+       
+       
+    }
+    .inner-text-part-4{
+        display: flex;
+    }
+    .inner-text-4 p{
+        font-size: 2rem;
+        padding-left: 60px;
+        padding-top: 20px;
+        width: 550px;
+    }
+    .inner-text-5 h1{
+        background-color: white;
+        width: 60px;
+        height:60px;
+        padding-left: 20px;
+        margin-top: 70px;
+       margin-left: 50px;
+       padding-top: 7px;
+       border-radius: 50px;
+        font-size: 2.6rem;
+        color: rgb(237, 2, 80);
+        
+    }
+    .inner-text-5 h2{
+       width: 500px;
+        font-size: 2.3rem;
+        padding-left: 13px;
+        padding-top: 80px;
+        color: rgb(237, 2, 80);
+       
+       
+    }
+    .inner-text-part-6{
+        display: flex;
+    }
+    .inner-text-6 p{
+        font-size: 2rem;
+        padding-left: 60px;
+        padding-top: 20px;
+        width: 550px;
+    }
+    .inner-text-6 h1{
+        background-color: white;
+        width: 60px;
+        height:60px;
+        padding-left: 20px;
+        margin-top: 70px;
+       margin-left: 50px;
+       padding-top: 7px;
+       border-radius: 50px;
+        font-size: 2.6rem;
+        color: rgb(237, 2, 80);
+        
+    }
+    .inner-text-6 h2{
+       width: 500px;
+        font-size: 2.3rem;
+        padding-left: 13px;
+        padding-top: 80px;
+        color: rgb(237, 2, 80);
+       
+       
+    }
+    .inner-text-part-6{
+        display: flex;
+    }
+    .inner-text-6 p{
+        font-size: 2rem;
+        padding-left: 60px;
+        padding-top: 20px;
+        width: 100%;
+        background-color:rgb(255, 230, 235);
+    }
+    .section-4{
+        width: 100%;
+        margin-top: 300px;
+        height: 1800px;
+    }
+    .section-4 h1{
+        width: 100%;
+        word-spacing: 10px;
+        font-size: 3rem;
+        padding-left: 10px;
+        padding-top: 90px;
+    }
+    .box-1{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 50px;
+        margin-left: 0px;
+        height: 440px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-1 h1{
+        padding-top: 230px;
+        font-size: 2.5rem;
+        margin-left: 0px;
+        padding-left: 160px;
+        color: white;
+    
+        
+    }
+    .box-1 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    .box-1-and-2{
+        display: inline-block;
+    }
+    .box-2{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-left: 0px;
+        height: 450px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-2 h1{
+        padding-top: 230px;
+        font-size: 3rem;
+        margin-left: 0px;
+        padding-left: 90px;
+        color: white;
+    
+        
+    }
+    .box-2 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2.5rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    .box-3{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-left: 0px;
+        height: 450px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-3 h1{
+        padding-top: 230px;
+        font-size: 2.5rem;
+        margin-left: 0px;
+        padding-left: 130px;
+        color: white;
+    
+        
+    }
+    .box-3 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    .box-3-and-4{
+        display: inline-block;
+    }
+    .box-4{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-left: 0px;
+        height: 450px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-4 h1{
+        padding-top: 230px;
+        font-size: 2.5rem;
+        margin-left: 0px;
+        padding-left: 130px;
+        color: white;
+    
+        
+    }
+    .box-4 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    .box-5{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-left: 0px;
+        height: 450px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-5 h1{
+        padding-top: 230px;
+        font-size: 2.5rem;
+        margin-left: 0px;
+        padding-left: 130px;
+        color: white;
+    
+        
+    }
+    .box-5 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    .box-5-and-6{
+        display: inline-block;
+    }
+    .box-6{
+        background-color: rgb(237, 2, 80);
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-left: 0px;
+        height: 450px;
+        width:100%;
+        border-radius: 12px;
+    }
+    .box-6 h1{
+        padding-top: 230px;
+        font-size: 2.5rem;
+        margin-left: 0px;
+        padding-left: 130px;
+        color: white;
+    
+        
+    }
+    .box-6 p{
+        word-spacing: 0px;
+        line-height: 40px;
+        margin-top: 10px;
+        font-size: 2rem;
+        color: white;
+        padding-left: 50px;
+       
+    }
+    
+    
+}
